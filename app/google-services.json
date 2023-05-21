@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79717404071",
+    "project_id": "geolocation2-e9ee5",
+    "storage_bucket": "geolocation2-e9ee5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79717404071:android:253fab937ddf9cd24dba82",
+        "android_client_info": {
+          "package_name": "com.example.ankitjha.buddyfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79717404071-rdesonm1goa5go1om7dutsqs1kjb4sje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHCzZFB8Q0ZMEq8Dh_YAq9o_z6RGKj_s4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79717404071-rdesonm1goa5go1om7dutsqs1kjb4sje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
